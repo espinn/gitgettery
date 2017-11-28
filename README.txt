@@ -1,1 +1,2 @@
-ksf
+"Hello World!"
+"Who's there?"
